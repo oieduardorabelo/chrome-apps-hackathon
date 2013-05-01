@@ -1,6 +1,6 @@
 #Chrome Apps Hackathon
 
-Aplicativo criado no dia 27/Abril/2013 durante o Chrome Apps Hackathon em São Paulo.
+Aplicativo criado no dia 27/Abril/2013 durante o Chrome Apps Hackathon em São Paulo.  
 Organizado pelo GDG São Paulo em parceria com a Google Brasil
 
 **Equipe:**
